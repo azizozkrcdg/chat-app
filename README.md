@@ -14,7 +14,7 @@ Bu proje, **Node.js** ve **Socket.IO** kullanılarak geliştirilmiş basit bir g
 Projeyi klonlayın ve çalıştırın:
 
 ```bash
-git clone https://github.com/kullaniciadiniz/proje-adi.git
-cd proje-adi
+git clone https://github.com/azizozkrcdg/chat-app.git
+cd chat-app
 npm install
 npm start
